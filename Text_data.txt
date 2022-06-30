@@ -1,0 +1,1416 @@
+﻿x
+
+Abstract
+
+Einstein's article titled, “The Fundaments of Theoretical Physics”, from Science, 
+Washington, D.C., May 24, 1940, is presented in its entirety as it is an outstanding presentation 
+of the history and status of the foundations of theoretical physics as it stood in 1940. Further, 
+it provides the background for discussing the new view of the fundaments of theoretical physics 
+provided by the energy and entropy foundation of the Dynamic Theory.
+Keywords: Energy, Entropy, Equations of motion, Quantum Mechanics, Gauge fields
+
+Introduction
+
+Einstein spent virtually his entire working life in theoretical physics. He had an extremely clear 
+view of what the foundations of theoretical physics was and should be. He was able to express this 
+view so vividly that it is hard to imagine being able to improve upon his words. Here is the 
+article, published in 1940, in which Einstein sets forth the fundaments of theoretical physics as 
+he understood it then. Little has changed in the fundaments until recently. Following Einstein's 
+article there is a brief discussion of more recent developments in the foundations of theoretical 
+physics that display the fundamental roles of energy and entropy in fundaments of theoretical 
+physics.
+
+Einstein's Article
+
+THE FUNDAMENTS OF THEORETICAL PHYSICS
+Science, Washington, D. C. May 24, 1940
+
+Science is the attempt to make the chaotic diversity of our sense-experience correspond to a 
+logically uniform system of thought. In this system single experiences must be correlated with the 
+theoretic structure in such a way that the resulting coordination is unique and convincing.
+The sense-experiences are the given subject-matter. But the theory that shall interpret them is 
+man- made. It is the result of an extremely laborious process of adaptation: hypothetical, never 
+completely final, always subject to question and doubt. The scientific way of forming concepts 
+differs from that which we use in our daily life, not basically, but merely in the more precise 
+definition of concepts and conclusions; more painstaking and systematic choice of experimental 
+material; and greater logical economy. By this last we mean the effort to reduce all concepts and 
+correlations to as few as possible logically independent basic concepts and axioms.
+What we call physics comprises that group of natural sciences which base their concepts on 
+measurements; and whose concepts and propositions lend themselves to mathematical formulation. Its 
+realm is accordingly defined as that part of the sum total of our knowledge which is capable of 
+being expressed in mathematical terms. With the progress of science, the realm of physics has so 
+expanded that it seems to be limited only by the limitations of the method itself.
+The larger part of physical research is devoted to the development of the various branches of 
+physics, in each of which the object is the theoretical understanding of more or less restricted 
+fields of experience, and in each of which the laws and concepts remain as closely as possible 
+related to experience. It is this department of science, with its ever-growing specialization, 
+which has revolutionized practical life in the last centuries, and given birth to the possibility 
+that man may at last be freed from the burden of physical toil.
+On the other hand, from the very beginning there has always been present the attempt to find a 
+unifying theoretical basis for all these single sciences, consisting of a minimum of concepts and 
+fundamental relationships, from which all the concepts and relationships the single disciplines 
+might be derived by logical process. This is what we mean by the search for a foundation of the 
+whole of physics. The confident belief that this ultimate goal may be reached is the chief source 
+of the passionate devotion which has always animated the researcher. It is in this sense that the 
+following observations are devoted to the foundations of physics.
+From what has been said it is clear that the word foundations in this connection does not mean 
+something analogous in all respects to the foundations of a building. Logically considered, of 
+course, the various single laws of physics rest upon this foundation. But whereas a building may be 
+seriously damaged by a heavy storm or spring flood, yet its foundations remain intact, in science 
+the logical foundation is always in greater peril from new experiences or new knowledge than are 
+the branch disciplines with their closer experimental contacts. In the connection of the foundation 
+with all the single parts lies its great significance, but likewise its greatest danger in face of 
+any new factor. When we realize this, we are led to wonder why the so-called revolutionary epochs 
+of the science of physics have not more often and more completely changed its foundation than has 
+actually been the case.
+The first attempt to lay a uniform theoretical foundation was the work of Newton. In his system 
+everything is reduced to the following concepts: (1) Mass points with invariable mass; (2) action 
+at a distance between any pair of mass points; (3) law of motion for the mass point. There was not, 
+strictly
+
+speaking, any all-embracing foundation, because an explicit law was formulated only for the 
+actions-at- a-distance of gravitation; while for other actions-at-a-distance nothing was 
+established a priori except the law of equality of action and reaction. Moreover, Newton himself 
+fully realized that time and space were essential elements, as physically effective factors, of his 
+system, if only by implication.
+This Newtonian basis proved eminently fruitful and was regarded as final up to the end of the 
+nineteenth century. It not only gave results for the movements of the heavenly bodies, down to the 
+most minute details, but also furnished a theory of the mechanics of discrete and continuous 
+masses, a simple explanation of the principle of the conservation of energy and a complete and 
+brilliant theory of heat. The explanation of the facts of electrodynamics within the Newtonian 
+system was more forced; least convincing of all, from the very beginning, was the theory of light.
+It is not surprising that Newton would not listen to a wave theory of light; for such a theory was 
+most unsuited to his theoretical foundation. The assumption that space was filled with a medium 
+consisting of material points that propagated light waves without exhibiting any other mechanical 
+properties must have seemed to him quite artificial. The strongest empirical arguments for the wave 
+nature of light, fixed speeds of propagation, interference, diffraction, polarization were either 
+unknown or else not known in any well-ordered synthesis. He was justified in sticking to his 
+corpuscular theory of light.
+During the nineteenth century the dispute was settled in favor of the wave theory; Yet no serious 
+doubt of the mechanical foundation of physics arose, in the first place because nobody knew where 
+to find a foundation of another sort. Only slowly, under the irresistible pressure of facts, there 
+developed a new foundation of physics, field-physics.
+From Newton's time on, the theory of action-at-a-distance was constantly found artificial. Efforts 
+were not lacking to explain gravitation by a kinetic theory, that is, on the basis of collision 
+forces of hypothetical mass particles. But the attempts were superficial and bore no fruit. The 
+strange part played by space (or the inertial system) within the mechanical foundation was also 
+clearly recognized, and criticized with especial clarity by Ernst Mach.
+The great change was brought about by Faraday, Maxwell, and Hertz, as a matter of fact half- 
+unconsciously and against their will. All three of them, throughout their lives, considered 
+themselves adherents of the mechanical theory. Hertz had found the simplest form of the equations 
+of the electromagnetic field, and declared that any theory leading to these equations was 
+Maxwellian theory. Yet toward the end of his short life he wrote a paper in which he presented as 
+the foundation of physics a mechanical theory freed from the force-concept.
+For us, who took in Faraday's ideas so to speak with our mother's milk, it is hard to appreciate 
+their greatness and audacity. Faraday must have grasped with unerring instinct the artificial 
+nature of all attempts to refer electromagnetic phenomena to actions-at-a-distance between electric 
+particles reacting on each other. How was each single iron filing among a lot scattered on apiece 
+of paper to know of the single electric particles running round in a nearby conductor? All these 
+electric particles together seemed to create in the surrounding space a condition which in turn 
+produced a certain order in of the filings. These spatial states, today called fields, if their 
+geometrical structure and interdependent action were once rightly grasped, would, he was convinced, 
+furnish the clue to the mysterious electromagnetic
+
+interactions. He conceived these in fields as states of mechanical stress in a space-filling 
+medium, similar to the states of stress in an elastically distended body. For at that time this was 
+the only way one could conceive of only states that were apparently continuously distributed in 
+space. The peculiar type of mechanical interpretation of these fields remained in the background--a 
+sort of placation of the scientific conscience in view of the mechanical tradition of Faraday's 
+time. With the help of these new field concepts Faraday succeeded in forming a qualitative concept 
+of the whole complex of electromagnetic effects discovered by him and his predecessors. The precise 
+formulation of the time- space laws of those fields was the work of Maxwell. Imagine his feelings 
+when the differential equations he had formulated proved to him that electromagnetic fields spread 
+in the form of polarized waves and with the speed of light! To few men in the world has such an 
+experience been vouchsafed. At that thrilling moment he surely never guessed that the riddling 
+nature of light, apparently so completely solved, would continue to baffle succeeding generations. 
+Meantime, it took physicists some decades to grasp the full significance of Maxwell's discovery, so 
+bold was the leap that his genius forced upon the conceptions of his fellow-workers. Only after 
+Hertz had demonstrated experimentally the existence of Maxwell's electromagnetic waves did 
+resistance to the new theory break down.
+But if the electromagnetic field could exist as a wave independent of the material source, then the
+electrostatic interaction could no longer be explained as action-at-a-distance. And what was true 
+for electrical action could not be denied particles for gravitation. Everywhere Newton's 
+actions-at-a- distance gave way to fields spreading with finite velocity.
+Of Newton's foundation there now remained only the material mass points subject to the law of 
+motion. But J. J. Thomson pointed out that an electrically charged body in motion must, according 
+to Maxwell's theory, possess a magnetic field whose energy acted precisely as does an increase of 
+kinetic energy to the body. If, then, a part of kinetic energy consists of field energy, might that 
+not then be true of the whole of the kinetic energy? Perhaps the basic property of matter, its 
+inertia, could be explained within the field theory? The question led to the problem of an 
+interpretation of matter in terms of field theory, the solution of which would furnish an 
+explanation of the atomic structure of matter. It was soon realized that Maxwell's theory could not 
+accomplish such a program. Since then many scientists have zealously sought to complete the field 
+theory by some generalization that should comprise a theory of matter; but so far such efforts have 
+not been crowned with success. In order to construct a theory, it is not enough to have a clear 
+conception of the goal. One must also have a formal point of view which will sufficiently restrict 
+the unlimited variety of possibilities. So far this has not been found; accordingly the field 
+theory has not succeeded in furnishing a foundation for the whole of physics.
+For several decades most physicists clung to the conviction that a mechanical substructure would be
+found for Maxwell's theory. But the unsatisfactory results of their efforts led to gradual 
+acceptance of the new field concepts as irreducible fundamentals--in other words, physicists 
+resigned themselves to giving up the idea of a mechanical foundation.
+Thus physicists held to a field-theory program. But it could not be called a foundation, since 
+nobody could tell whether a consistent field theory could ever explain on the one hand gravitation, 
+on the other hand the elementary components of matter. In this state of affairs it was necessary to 
+think of material
+
+particles as mass points subject to Newton's laws of motion. This was the procedure of Lorentz in 
+creating his electron theory and the theory of the electromagnetic phenomena of moving bodies.
+Such was the point at which fundamental conceptions had arrived at the turn of the century. Immense 
+progress was made in the theoretical penetration and understanding of whole groups of new 
+phenomena; but the establishment of a unified foundation for physics seemed remote indeed. And this 
+state of things has even been aggravated by subsequent developments. The development during the 
+present century is characterized by two theoretical systems essentially independent of each other: 
+the theory of relativity and the quantum theory. The two systems do not directly contradict each 
+other; but they seem little adapted to fusion into one unified theory. We must briefly discuss the 
+basic idea of these two systems.
+The theory of relativity arose out of efforts to improve, with reference to logical economy, the 
+foundation of physics as it existed at the turn of the century. The so-called special or restricted 
+relativity theory is based on the fact that Maxwell's equations (and thus the law of propagation of 
+light in empty space) are converted into equations of the same form, when they undergo Lorentz 
+transformation. This formal property of the Maxwell equations is supplemented by our fairly secure 
+empirical knowledge that the laws of physics are the same with respect to all inertial systems. 
+This leads to the result that the Lorentz transformation--applied to space and time 
+coordinates--must govern the transition from one inertial system to any other. The content of the 
+restricted relativity theory can accordingly be summarized in one sentence: all natural laws must 
+be so conditioned that they are covariant with respect to Lorentz transformations. >From this it 
+follows that the simultaneity of two distant events is not an invariant concept and that the 
+dimensions of rigid bodies and the speed of clocks depend upon their state of motion. A further 
+consequence was a modification of Newton's law of motion in cases where the speed of a given body 
+was not small compared with the speed of light. There followed also the principle of the 
+equivalence of mass and energy, with the laws of conservation of mass and energy becoming one and 
+the same. Once it was shown that simultaneity was relative and depended on the frame of reference, 
+every possibility of retaining actions-at-a-distance within the foundation of physics disappeared, 
+since that concept presupposed the absolute character of simultaneity (it must be possible to state 
+the location of the two interacting mass points "at the same time").
+The general theory of relativity owes its origin to the attempt to explain a fact known since 
+Galileo's
+and Newton's time but hitherto eluding all theoretical interpretation: the inertia and the weight 
+of a body, in themselves two entirely distinct things, are measured by one and the same constant, 
+the mass. From this correspondence follows that it is impossible to discover by experiment whether 
+a given system of coordinates is accelerated, or whether its motion is straight and uniform and the 
+observed effects are due to a gravitational field (this is the equivalence principle of the general 
+relativity theory). It shatters the concepts of the inertial system, as soon as gravitation enters 
+in. It may be remarked here that the inertial system is a weak point of the Galilean-Newtonian 
+mechanics. For there is presupposed a mysterious property of physical space, conditioning the kind 
+of coordinate systems for which the law of inertia and the Newtonian law of motion hold good.
+
+These difficulties can be avoided by the following postulate: natural laws are to be formulated in 
+such a way that their form is identical for coordinate systems of any kind of states of motion. To 
+accomplish this is the task of the general theory of relativity. On the other hand, we deduce from 
+the restricted theory the existence of a Riemannian metric within the time-space continuum, which, 
+according to the equivalence principle, describes both the gravitational field and the metric 
+properties of space. Assuming that the field equations of gravitation are of the second 
+differential order, the field law is clearly determined.
+Aside from this result, the theory frees field physics from the disability it suffered from, in 
+common with the Newtonian mechanics, of ascribing to space those independent physical properties 
+which heretofore had been concealed by the use of an inertial system. But it cannot be claimed that 
+those parts of the general relativity theory which can today be regarded as final have furnished 
+physics with a complete and satisfactory foundation. In the first place, the total field appears in 
+it to be composed of two logically unconnected parts, the gravitational and the electromagnetic. 
+And in the second place, this theory, like the earlier field theories, has not up till now supplied 
+an explanation of the atomistic structure of matter. This failure has probably some connection with 
+the fact that so far it has contributed nothing to the understanding of quantum phenomena. To take 
+in these phenomena, physicists have been driven to the adoption of entirely new methods, the basic 
+characteristics of which we shall now discuss.
+In the year nineteen hundred, in the course of a purely theoretic investigation, Max Planck made a
+very remarkable discovery: the law of radiation of bodies as a function of temperature could not be 
+derived solely from the laws of Maxwellian electrodynamics. To arrive at results consistent with 
+the relevant experiments, radiation of a given frequency had to be treated as though it consisted 
+of energy atoms of the individual energy hv, where h is Planck's universal constant. During the 
+years following, it was shown that light was everywhere produced and absorbed in such energy 
+quanta. In particular Niels Bohr was able largely to understand the structure of the atom, on the 
+assumption that atoms can have only discrete energy values, and that the discontinuous transitions 
+between them are connected with the emission or absorption of such an energy quantum. This threw 
+some light on the fact that in their gaseous state elements and their compounds radiate and absorb 
+only light of certain sharply defined frequencies. All this was quite inexplicable within the frame 
+of the hitherto existing theories. It was clear that at least in the field of atomistic phenomena 
+the character of everything that happens is determined by discrete states and by apparently 
+discontinuous transitions between them, Planck's Constant h playing a decisive role. The next step 
+was taken by de Broglie. He asked himself how the discrete states could be understood by the aid of 
+the current concepts, and hit on a parallel with stationary waves, as for instance in the case of 
+the proper frequencies of organ pipes and strings in acoustics. True, wave actions of the kind here 
+required were unknown; but they could be constructed, and their mathematical laws formulated, 
+employing Planck's constant h. De Broglie conceived an electron revolving about the atomic nucleus 
+as being connected with such a hypothetical wave train, and made intelligible to some extent the 
+discrete character of Bohr's "permitted" paths by the stationary character of the corresponding 
+waves.
+
+Now in mechanics the motion of material points is determined by the forces or fields of force 
+acting upon them. Hence it was to be expected that those fields of force would also influence de 
+Broglie's wave fields in an analogous way. Erwin Schrodinger showed how this influence was to be 
+taken into account, re-interpreting by an ingenious method certain formulations of classical 
+mechanics. He even succeeded in expanding the wave mechanical theory to a point where without the 
+introduction of any additional hypotheses, it became applicable to any mechanical system consisting 
+of an arbitrary number of mass points, that is to say possessing an arbitrary number of degrees of 
+freedom. This was possible because a mechanical system consisting of o mass points is 
+mathematically equivalent to a considerable degree to one single mass point moving in a space of 3 
+o dimensions.
+On the basis of this theory there was obtained a surprisingly good representation of an immense 
+variety of facts which otherwise appeared entirely incomprehensible. But on one point, curiously 
+enough, there was failure: it proved impossible to associate with these Schrodinger waves definite 
+motions of the mass points-and that, after all, had been the original purpose of the whole 
+construction.
+The difficulty appeared insurmountable, until it was overcome by Born in a way as simple as it was 
+unexpected. The de Broglie-Schrodinger wave fields were not to be interpreted as a mathematical 
+description of how an event actually takes place in time and space, though, of course, they have 
+reference to such an event. Rather they are a mathematical description of what we can actually know 
+about the system. They serve only to make statistical statements and predictions of the results of 
+all measurements which we can carry out upon the system.
+Let me illustrate these general features of quantum mechanics by means of a simple example: we 
+shall consider a mass point kept inside a restricted region G by forces of finite strength. If the 
+kinetic energy of the mass point is below a certain limit, then the mass point, according to 
+classical mechanics, can never leave the region G. But according to quantum mechanics, the mass 
+point, after a period not immediately predictable, is able to leave the region G, in an 
+unpredictable direction, and escape into surrounding space. This case, according to Gamow, is a 
+simplified model of radioactive disintegration. The quantum theoretical treatment of this case is 
+as follows: at the time t we have a Schrodinger wave system entirely inside G. But from the time  
+onwards, the waves leave the interior of G in all directions, in such a way that the amplitude of 
+the outgoing wave is small compared to the initial amplitude of the wave system inside G. The 
+further these outside waves spread, the more the amplitude of the waves inside G diminishes, and 
+correspondingly the intensity of the later waves issuing from G.
+Only after infinite time has passed is the wave supply inside G exhausted, while the outside wave 
+has spread over an ever-increasing space.
+But what has this wave process to do with the first object of our interest, the particle originally 
+enclosed in G? To answer this question, we must imagine some arrangement which will permit us to 
+carry out measurements on the particle. For instance, let us imagine somewhere in the surrounding 
+space a screen so made that the particle sticks to it on coming into contact with it. Then, from 
+the intensity of the waves hitting the screen at some point, we draw conclusions as to the 
+probability of the particle hitting the screen there at that time. As soon as the particle has hit 
+any particular point of the screen, the whole wave field loses all its physical meaning; its only 
+purpose was to make probability
+
+predictions as to the place and time of the particle hitting the screen (or, for instance, its 
+momentum at the time when it hits the screen).
+All other cases are analogous. The aim of the theory is to determine the probability of the results 
+of measurement upon a system at a given time. On the other hand, it makes no attempt to give a 
+mathematical representation of what is actually present or goes on in space and time. On this point 
+the quantum theory of today differs fundamentally from all previous theories of physics, 
+mechanistic as well as field theories. Instead of a model description of actual space-time events, 
+it gives the probability distributions for possible measurements as functions of time.
+It must be admitted that the new theoretical conception owes its origin not to any flight of fancy 
+but to the compelling force of the facts of experience. All attempts to represent the particle and 
+wave features displayed in the phenomena of light and matter, by direct recourse to a space-time 
+model, have so far ended in failure. And Heisenberg has convincingly shown, from an empirical point 
+of view, that any decision as to a rigorously deterministic structure of nature is definitely ruled 
+out, because of the atomistic structure of our experimental apparatus. Thus it is probably out of 
+the question that any future knowledge can compel physics again to relinquish our present 
+statistical theoretical foundation in favor of a deterministic one which would deal directly with 
+physical reality. Logically the problem seems to offer two possibilities, between which we are in 
+principle given a choice. In the end the choice will be made according to which kind of description 
+yields the formulation of the simplest foundation, logically speaking. At the present, we are quite 
+without any deterministic theory directly describing the events themselves and in consonance with 
+the facts.
+For the time being, we have to admit that we do not possess any general theoretical basis for 
+physics, which can be regarded as its logical foundation. The field theory, so far, has failed in 
+the molecular sphere. It is agreed on all hands that the only principle which could serve as the 
+basis of quantum theory would be one that constituted a translation of the field theory into the 
+scheme of quantum statistics. Whether this will actually come about in a satisfactory manner, 
+nobody can venture to say .
+Some physicists, among them myself, cannot believe that we must abandon, actually and forever, the 
+idea of direct representation of physical reality in space and time; or that we must accept the 
+view that events in nature are analogous to a game of chance. It is open to every man to choose the 
+direction of his striving; and also every man may draw comfort from Lessing's fine saying, that the 
+search for truth is more precious than its possession.
+
+Discussion
+
+The last paragraph states Einstein's lifelong belief that quantum mechanics should not ultimately 
+form the foundations of physics. Today it is difficult to find a physicist publishing such a 
+belief. Such is the belief in the fundamental nature of quantum mechanics. The success of the 
+predictions of quantum mechanics and the vast growth of experimental data throughout the 20th 
+century only adds to this conviction. A further impediment to looking into the foundations of 
+physics is provided by the various branches of physics and the increased degree of specialization 
+that exists today.
+
+Einstein was not afraid of thinking thoughts not previously held. Yet when he contributed so much 
+to the beginnings of quantum mechanics, those who pursued quantum mechanics as a fundamental basis 
+for physics felt they had lost a leader when Einstein steadfastly refused to follow their path. It 
+is now possible to show how correct he was in maintaining his stand with the same rigorous logic 
+that Einstein demanded of himself. There does indeed exist a simple set of fundamental postulates 
+from which it may be shown that the basis of all the various branches of physics are but subsets of 
+the totality of their description.
+The starting point of this new line of thinking is so improbable as to be easily overlooked and yet 
+it is the only foundation that has never been seen to offer predictions that differ from 
+experience. This starting point is the laws of classical thermodynamics!
+There are at least two reasons that classical thermodynamics would not be expected to provide such 
+a foundation. First, thermodynamics, as currently studied, does not provide a description of motion 
+like the mechanistic theories do. Secondly, texts teach, as Einstein believed, that classical 
+thermodynamics might be obtained from statistical procedures applied to Newtonian mechanics.
+The key insight needed to understand the fundamental nature of the laws of thermodynamics is to 
+note that the first law is a Pfaff differential equation and to apply the second law of 
+thermodynamics as Carathéodory did in 1909 [1]. Carathéodory's principle guarantees the existence 
+of a property called entropy along with the energy statement of the first law. The form of these 
+laws are such that they may be expressed, without preference, in any coordinate system and of any 
+dimension, as Einstein stated should be required of a fundamental set of laws. Though the 
+necessary, complimentary existence of energy and entropy appears to complicate any mechanistic 
+description of nature, it is their simultaneous existence that provides a logical description.
+Today, the concept of entropy is almost universally related to order or information. However, the 
+concept demanded by the second law is best thought of as ‘energy that becomes unavailable’ as the 
+thermal engineers have been known to call it. In this form, it is easier to connect the second law 
+with the denial of perpetual motion. The more you do- the greater the amount of energy that becomes 
+unavailable. This becomes the entropy principle for isolated systems. For all other systems, it 
+requires the minimum free energy principle. This provides variational principles that may be used 
+to determine motion should a geometric metric also be given.
+Now there is a surprising, but encouraging, immediate result from these laws. Using the same logic 
+Carathéodory used to prove that the connection between energy (heat) and entropy is strictly a 
+function of temperature and that this function leads to an absolute limit in temperature, these 
+laws provide a function of velocity as the connecting function between energy and entropy for 
+mechanical systems [2]. More importantly, these laws provide a universal (i.e. independent of the 
+type of force) limiting velocity for the same inertial systems that Einstein used in his special 
+theory of relativity [3]. There is now no need to assume that this as a fundamental postulate.
+Bolstered by the fact that the laws seem to support the special theory of relativity by providing 
+Einstein's postulate concerning the constancy of the speed of light, there is more reason to 
+believe that mechanics may indeed come from these laws. Again following the lead of thermodynamics, 
+in which there is a choice of the variables one may choose with which to write the second order 
+differential
+
+equations that give the stability conditions, there is a choice provided for the description of 
+mechanical systems stability [4,5,12]. These differential equations are natural metrics for use in 
+determining motion. Choosing the stability conditions in a manifold of space and entropy seems very 
+unlike mechanics. Yet, when this metric is scaled using local time as the arc length, a rewarding 
+requirement occurs when an isolated system is considered. These fundamental laws do not provide a 
+variational principle in time. Therefore, the scaled metric must be solved for the element of 
+entropy before the principle of increasing entropy may be applied. This gives equations of motion 
+in a Riemannian manifold as Einstein used in his relativistic theories.
+The two most remarkable features of this result are that the fundamental laws specify the geometry 
+and that the laws require fwo metrics. The first metric is the relativistic metric whose arc length 
+is the entropy playing the role of Einstein's proper time. The second metric is a somewhat similar 
+relativistic metric with the energy as the arc length. This is the same requirement that occurs in 
+thermodynamics where the change of entropy does not depend upon how the system changes. It depends 
+only upon the end points while the heat depends upon how the change occurs. Here the distance 
+between two points in the entropy manifold does not depend upon the path, but the distance between 
+the same two points in the energy manifold does depend upon the path. The laws require the energy 
+metric to have a geometry that was first developed by Weyl [6] when he proposed this geometry as a 
+means to unify the electromagnetic and the gravitational fields in terms of the gauge fields that 
+appeared within the geometry. Einstein argued that the path dependence of Weyl's geometric differed 
+from experience with the result that Weyl's thoughts were abandoned so far as they went toward any 
+unification.
+In 1922, however, Schrodinger [7] noticed that, should one require a unity scale in a Weyl space,
+then only Bohr's quantized paths were allowed. Schrodinger went on to develop his wave equations of 
+quantum mechanics in 1926 [8]. In 1927, London showed that the requirement of unity scale in a Weyl 
+space could only be satisfied by paths that obeyed Schrodinger's wave equations [9]. Further, 
+London showed that Schrodinger's wave function was proportional to Weyl's scale factor. Weyl seized 
+upon this result and raised London's result to the level of a principle [10], referred to as Weyl's 
+quantum principle [11]. This, together with Weyl's display that the gauge potentials formed the 
+scale factor in his geometry, led to the electromagnetic gauge fields. Providing the basis for all 
+the subsequent gauge fieldwork that Einstein referred to in 1940 and the work that has followed in 
+the search for a description of the weak and the strong nuclear forces [11].
+This historical review is of importance when very stable mechanical systems are sought. These would 
+be represented by systems with constant entropy, called isentropic systems. Isentropic mechanical 
+systems must have the unity scale of Weyl's quantum principle [12]. Therefore, stable isentropic 
+mechanical systems must satisfy quantum mechanics! Quantum mechanics is required by the fundamental 
+laws only for the isentropic subset of all the mechanical systems in nature.  Thus, quantum 
+mechanics is required by these laws, but may never be considered by them to be fundamental to the 
+description of all motions in nature. Furthermore, London's result that Schrodinger's wave function 
+must be proportional to the Weyl scale factor, limits the statistical interpretation of quantum 
+mechanics. Rather, London showed that the wave function contained information about the tendency of
+
+the scale factor to vary around unity [9]. This requires the same mathematical operations as are 
+currently used, yet with an entirely different interpretation.
+One more result, from the fact that the entropy principle provides the variational principle for 
+descriptions of motion, is one Einstein suggested was needed for any proper foundation of physics. 
+The need for an explanation of inertia is satisfied by the fact that the entropy is an extensive 
+property of the system requiring it to be proportional to the mass [4,5,13]. This is the origin of 
+the multiplicative mass term in the equations of motion.
+The unsatisfactory separation between the theories of relativity and quantum mechanics, referred to 
+by Einstein, is also hereby resolved. All isolated systems must obey relativity theory. Isentropic 
+systems must also obey the laws of quantum mechanics.
+Weyl showed that Maxwellian electromagnetism might be derived from his gauge potentials [10]. The 
+isentropic condition requires these potentials and the subsequent electromagnetic fields to be 
+quantized [5,12]. This requires the electrostatic potentials to be quantized in integer values as 
+is seen by experiment. Existing theories do not require this quantization of electric charge. When 
+the quantized electrostatic field is forced to satisfy the Maxwell equations, the dependence of the 
+electrostatic potential upon space is determined to be a non-singular potential [(1/r²)exp(-Mr)] 
+with the familiar 1/r' long range dependence [5,12,13]. The point, X, at which the potential begins 
+to deviate significantly from Coulomb's 1/r² potential is different for different particles! This 
+produces a violation of Newton's action and reaction law for unlike particles that get very close 
+to each other. Yet this has been shown to provide the basis of the nuclear force currently 
+described as the weak force. Also, the equations of the Yang-Mills theory have been derived from 
+this requirement for non-singular interactions between unlike particles that do not obey Newton's 
+law of action and reaction[12]. On the other hand, the non- singular potential requires that like 
+particles change their character as they approach each other. This means that like particles, such 
+as protons, that have a repulsive long-range interaction will have an attractive interaction as 
+they are forced into the near proximity of each other. The equations for non- singular interactions 
+between like particles have the SU(3) group characteristics [12].
+How is gravitation required of the fundamental laws? Suppose one looks into the equations that
+describe a four dimensional hyper-surface that is embedded into a five dimensional Weyl manifold 
+that have the four dimensions of space-time and an unknown, but physically real, fifth dimension. 
+This is somewhat like asking for the description of a sphere, upon whose surface there are only two 
+dimensions, that is embedded into a three dimensional space. The surface of the sphere will be 
+curved even though the surrounding space need not be curved, but may have a Euclidean geometry. 
+Without knowing what the fifth dimension might be, restricting it to be conserved similar to the 
+statement of the conservation of mass provides a restriction that may quickly be explored. The 
+equations resulting from the conservation of the fifth dimension are seen to be identical in form 
+to those chosen by Einstein as his gravitational field equations in his general theory [12]. Now 
+the determination of the fifth dimension may be seen for the only physically real property that 
+could give Einstein's equations is gravitating mass!
+Substantiation for this conclusion may be had when one looks at the first law of thermodynamics
+and includes three spatial work terms plus the thermodynamic work term. The usual manner of writing
+
+the thermodynamic work term involves the specific volume. However, the reciprocal of the specific 
+volume is the mass density. Therefore, the fundamental laws allow the mass as a fifth dimension. 
+When this property is conserved, which is the only condition Einstein considered, there are at 
+least three ways these laws describe gravitational phenomena. First, they may be described using 
+the five dimensional gauge field description, wherein the electromagnetic and gravitational fields 
+form a single, inductively coupled, electromagnetogravitic field. Secondly, either of the two 
+fundamental metrics for a surface embedded into a manifold may be used. The fundamental metric of 
+the second type produces the Einstein equations. Further, Einstein's principle of the equivalence 
+of inertial and gravitational mass is a further requirement of the fundamental laws and need not be 
+made separately.
+The fundamental laws require the quantization of gravitational phenomena for isentropic systems as 
+well as a non-singular gravitational potential [12]. The appearance of the non-singular 
+gravitational potential changes the interpretation of black holes, the big bang, and red shifts of 
+cosmological objects [14]. Now the tie between gravitation and quantum mechanics has been 
+established.
+One last feature of these fundamental laws should be mentioned. It concerns Einstein's position 
+that two separate theoretical descriptions of light, on the one hand as a particle and on the other 
+hand a wave, was intolerable. Electromagnetic waves follow from Weyl's gauge fields; that is, from 
+the Maxwell equations. Isentropic propagation of electromagnetic energy must also satisfy Weyl's 
+quantum condition and hence, must simultaneously satisfy the wave equations and be quantized. 
+Further, the fundamental laws require that the quantized, isentropic propagation of electromagnetic 
+energy must satisfy Plank's blackbody radiation law [12]. The wave and the particle nature of light 
+are, therefore, both required by these fundamental laws.
+Einstein stated that there appears to be two choices for a foundation for physics; statistical or 
+deterministic. Here we see a foundation that is fundamentally deterministic. Non-isolated systems 
+and systems with variable entropy must be deterministic while isentropic systems must be quantized 
+and, therefore, may have a statistical nature even though the probabilistic interpretation of 
+Schrodinger's waves was shown by London to be in error. Einstein's desire for a logically simple 
+foundation for physics is also satisfied; for these laws have been shown to produce the foundations 
+of each of the various branches of physics without yet coming upon a measured difference from 
+experiment.
+A return of Einstein's desired determinism to the foundations of theoretical, however, is 
+insufficient justification to overturn decades of scientific thought. Even the pedagogic value of a 
+more simple set of fundaments may not be adequate justification, as strong as it may be. A 
+different explanation of already explained phenomena supports virtually no additional 
+justification, especially if these explanations concern an understanding of cosmological 
+development that does not affect everyday life. Rather, for some, adequate justification for a 
+shift to a new foundation of theoretical physics, with its attendant relearning, rethinking and 
+rewriting of physics, may come from new predictions of a practical improvement to human life.
+One way in which new fundaments of theoretical physics may influence human life is in changing its 
+view of reality. For example, the currently accepted physics has been used to establish our current 
+view of reality to the point that it is commonplace to hear of a fundamental statistical origin for 
+everything in the universe or a universally constant uncertainty in knowledge [15]. Neither of 
+these
+views of reality are supported by the new fundaments. All non-isolated systems and some isolated 
+systems are fundamentally determinate. Isolated, stable (i.e. with no change in proper time) 
+systems display quantum features and some of these justify using the statistical assumptions. This 
+would certainly not support an evolution of things by chance as all systems that may have a 
+statistical interpretation must be time invariant.
+On the other hand, the new fundaments not only require that the unit of action (i.e. uncertainty) 
+depends upon the system under consideration [5,12,16], (e.g. an atom, a nucleus, or a solar orbit), 
+will have a different quantum unit of action, but, further, of the four universally accepted 
+fundamental values of electric charge, Planck's constant, the gravitational constant and Hubble's 
+constant, only two are truly fundamental while the other two may be derived. This displays an 
+unprecedented unification as well as a simplification.
+The brief discussion above mentions numerous new concepts that stem from the new basis. The 
+equations underlying these concepts provide several experiments that may test these concepts, yet 
+proof of the new theoretical basis does not, of itself, provide a prediction of improvement to 
+man's life. They have been used to illuminate a few areas in which appropriate engineering 
+solutions may achieve significant advancement.
+The inductive coupling between the electric and the magnetic fields, predicted by Maxwell's 
+equations, has led to uncountable products involving the interplay between these fields. In 
+particular, we have learned to electrically make magnetic fields or the use magnetic fields to make 
+electricity. The inductive coupling between the electromagnetic and gravitational fields predicted 
+by a five dimensional gauge field provides an extremely fertile ground for engineers.
+The five dimensional wave equations require the transverse waves to consist of an electric, a 
+magnetic and a gravitational component rather than just the electric and magnetic components. This 
+leads to the prediction that the electromagnetic energy density be non-zero when the radiation 
+pressure vanishes. This suggests two things. First, since it is difficult to imagine the universe 
+supporting a non- zero radiation pressure, then there must be a non-zero electromagnetic energy 
+throughout the universe as is being measured. Secondly, this provides a new view of the zero point 
+vacuum energy that may be more receptive to an engineering approach to mining it.
+Another way new fundaments of theoretical physics may have an impact upon humans is to provide new 
+logical basis upon which to look at our universe. This can lead to new understandings of known 
+phenomena or to exciting predictions of new physics. For example, the study of the energy radiating 
+from a blackbody led Planck to the first assumption of quanta and the first successful equation of 
+quantum mechanics. What of the study of the blackbody itself? Obviously, a system radiating energy 
+should not be considered to be isolated. Non-isolated systems have not been discussed above where 
+the concentration was on isolated systems. An electron under the accelerating influence of a force 
+that radiates energy is an example of a non-isolated system. So is a blackbody. The new fundaments 
+of theoretical physics provides a variational principle in the minimum free energy principle and 
+this principle should provide the equations of motion for these systems.
+So much to learn, but so little time.
+
+Abstract
+
+The problem of flooding in Warri, Nigeria is as old as the city 
+itself. What has changed in recent years is the rapidly increasing magnitude and 
+frequency of floodwater retention pools on urban streets as urban development 
+expanded into low-lying swamplands within the city. Through the process of 
+community urban risk assessments, urban flood zone occupants acknowledge the 
+growing problem of on-street flood retention pools in a city once dominated by 
+problems with off-street flood retention pools. A factor analysis of the perceived 
+causes of flooding shows that Warri residents believe that human activities that 
+reduced the floodwater storage capacity of its natural drainage sinks (i.e., its 
+swamplands), violated building codes, changed local water levels, altered low-lying
+ mangrove swamp terrain, and eliminated drainage facilities are responsible 
+for the increasing retention of floodwater pools on city streets in the last 
+few decades. Such local stock of flood knowledge has implications for a local 
+participatory approach to community adaptations and mitigation methods to 
+reduce urban flood risks from climate change and uncontrolled urban expansion. 
+Local community adaptation choices guide how flood-affected residents cope 
+with urban floods, especially how they use and alter their living space and 
+respond to emergencies. However, such community views are often ignored by 
+experts seeking solutions to flooding. If the views of flood zone occupants begin to 
+inform flood adaptation choices, proposed solutions to flooding problems would 
+be more likely to receive local support and acceptance, thus making the bottom-up 
+solutions developed in this paper easier to implement and sustain. Once a 
+well-formulated grassroots adaptation strategy for urban flood risk management 
+for resiliency becomes the base for action, a more resilient national policy is sure 
+to succeed, especially in low-income and lower-middle-income countries where 
+informal settlement is the case and the role of government in flood management 
+is still minimal.
+
+I. Introduction
+The combination of climate change impacts and rapid urban expansion 
+into floodwater storage zones is a real threat exacerbating flood risks and 
+vulnerabilities for at-risk communities in cities across the globe, especially 
+those in African low-lying coastal plains.(1) One such city is the colonial 
+seaport city of Warri, a major hub of Nigeria’s petroleum industry. The 
+city was founded on a flood-prone mangrove swamp terrain in 1893, and 
+the site has a long history of flooding that pre-dates its foundation. In 
+addition to its already high average annual rainfall of 2,803.6 millimetres, 
+Warri swamplands receive large volumes of floodwaters through the 
+numerous distributaries and creeks of the Niger River flowing through 
+to the ocean. Hence, some of the early colonial office buildings in the 
+city were built on stilts or raised foundations. In the last few decades, 
+Intergovernmental Panel on Climate Change (IPCC) reports indicate 
+a modest increase in precipitation across the globe and West Africa in 
+particular and the Nigerian Meteorological Agency (NIMET) projects 
+more severe flooding events associated with climate change impacts in 
+southern Nigeria.(2)
+Simultaneously, socioeconomic changes in the Warri metropolis 
+have helped underpin the more than quadrupling of its population 
+between 1960 and 2006, propelling urban expansion onto flood-prone 
+swamplands that hitherto served as its natural floodwater storage sinks 
+and exposing the residents to heightened flood risks and vulnerabilities. 
+Yet the uncertainties of this emerging synergy of impacts from climate 
+change and rapid urban growth pose a new challenge to flood managers 
+and flood zone occupants because they also undermine the assumptions 
+of stationarity that often underlie traditional flood risk understanding, 
+assessment and adaptation practices.(3) Hence, an alternative, more 
+resilient flood risk management system, based on the non-stationarity 
+assumptions underlying the emerging trends in biophysical and social 
+drivers across the globe, has become much needed. This is especially 
+the case for long-term flood zone occupants in low-income and lower-middle-income 
+nations who often claim to have been living with floods 
+all their lives. For example, Tania Lopez-Marrero alluded to this when 
+a Puerto Rican in her study group stated: “We have lived here a hundred 
+years with the flood, and we can live that way a hundred years more.”(4) Even 
+if such local coping strategies with regard to community flood risks have 
+been successful in managing everyday flood risks under periods of a 
+stable climate, the Warri situation offers a new opportunity to examine 
+the continued resilience of the local range of adaptation choices under 
+the growing influence of climate change and the rapid urban growth 
+uncertainties of today.
+This paper describes how Warri flood zone occupants assess the 
+dominant type of flooding and its root causes, as well as how their 
+experience and accumulated stock of knowledge of living with floods 
+could be harnessed to make their existing adaptation choices more 
+resilient. Such bottom-up flood risk adaptation management for 
+achieving citywide flood resilience is advocated in this study. This focus 
+is apt because the input of local knowledge is important for community 
+acceptance and involvement in the implementation of flood management 
+solutions arising from it. This way, a bottom-up urban flood management 
+for resiliency may begin to emerge and, perhaps, become the future recipe 
+for flood risk management in low- and middle-income countries where 
+viable national urban flood risk management systems for resilience are 
+still absent. In the past, such perspectives were not often well articulated 
+in flood risk management solutions and empowering such communities 
+as gatekeepers is likely to increase the acceptability and sustainability of 
+flood mitigation policies.
+
+II. Adaptation for flood risk resilience
+This study focuses on adaptation for flood risk resilience. Its goal is to 
+identify how to reduce the vulnerability and harmful consequences of 
+flooding while increasing people’s flood resilience to enable flood zone 
+occupants to truly live with extreme floods and maintain the functionality 
+of flood zones’ economies, facilities, services and communities. According 
+to Pelling, “adaptation is defined as: the process through which an actor is able 
+to reflect upon and exact changes in those practices and underlying institutions 
+that generate root and proximate causes of risks, frame capacity to cope and 
+further rounds of adaptation to climate change.”(5)
+ Pahl-Wostl puts it more 
+succinctly: “adaptive management is a systematic process of improving 
+management policies and practices by learning from outcomes of implemented 
+strategies”.(6) Such iterative learning cycles ensure regular system updating 
+and a re-assessment of the practical ways that Warri flood communities 
+have adapted or maladapted to flood disaster risks over the years. Hence, 
+the successes or failures of past flood risk adaptation choices become 
+the database of the local stock of knowledge required to guide any long-term 
+local or national framework for future, forward-looking flood risk 
+management for resilience.
+Furthermore, for any flood risk management to achieve resilience, 
+the system-based concept of resilience is also required to manage the 
+uncertainties of flood risk impacts under the current climate change 
+and rapid urban growth scenarios. This gives a flood risk management 
+system the “ability to re-organize itself so as to maintain functionality”(7)
+and benefit from the system’s capacity for restorative or adaptive 
+resilience. Unfortunately, traditional flood risk management systems 
+have only benefited from restorative resilience, which focuses mainly 
+on infrastructural (technological) solutions using only the services 
+of professionals. But given the dynamic (non-stationary) nature of 
+environmental drivers in generating extreme flood risks, vulnerabilities 
+and unpredictability, it has become imperative to focus more on adaptive 
+resilience-seeking solutions involving effective public engagement and 
+active learning to achieve more flexibility, adaptability and sustainability 
+in flood risk management.(8)
+Thus, adaptation for flood risk resilience is a “path-dependent trajectory 
+of change”(9), based on positive and negative feedback, and frames modern 
+flood risk management such that “the decisions of the past influence the 
+adaptation options that are available in the present, and the decisions in the 
+present have implications for the flexibility of which adaptation options can 
+be implemented in the future.”(10)
+ This framework goes beyond traditional 
+infrastructure-focused flood management to include participatory 
+processes and existing local knowledge in educating on future adaptations 
+for flood risk management for resilience in Warri, Nigeria
+The ecology of urban flooding in warri, nigeria
+Warri was built on low-lying flood-prone mangrove swamp terrain with a 
+maximum elevation of less than 10 metres above sea level. It previously 
+served as farmlands of the Agbara-Ame people, fishing grounds and 
+a market of the riverside village of Ogbe-Ijaw.(14) Though dry land for 
+urban development was very limited, it was chosen as the British colonial 
+administrative headquarters for the Western Niger Delta. Access to the 
+Atlantic coast and its huge hinterland population, which was important 
+for British mercantile trade, informed the choice. As the Kingdom of Benin 
+was defeated by the British in 1897, its mercantile trade along the Benin 
+River was closed and the local mercantile traders immediately relocated to 
+the new town of Warri and boosted its population.(15)
+Within a decade of the founding of Warri, its premium dry lands had 
+been compulsorily appropriated by the British colonial administration 
+to build the new Warri Township for its subjects,(16) thereby making dry 
+land a highly contested commodity in the city.(17) Meanwhile, the nearby 
+pre-urban farm villages of Agbassa, Ogbe-Ijaw, Igbudu and Okere became 
+home to the local Nigerians and migrant traders attracted to the new city. 
+Hence, its dual city structure consists of a modern sector called the Warri 
+Township or Government Reservation Area and an indigenous sector. 
+While Warri Township was better drained by roadside open gutters, the 
+indigenous sector was served by natural gravity flow to drain storm runoff 
+to natural drainage sinks. However, the segmentation of natural swamps 
+by city road networks has led to the formation of permanent off-street 
+storm water detention pools in places like Agbassa, Igbudu, Sam Warri, 
+Odion, Mciver, Okere-Ajamogha and Ginuwa (Figure 1).
+Warri grew from fewer than 50,000 inhabitants in 1960 to over 
+300,000 by 2006.(18) The flood-prone swamplands are the only available 
+land for urban expansion and became attractive and subsequently zoned 
+for residential development by the land-owning families in conjunction 
+with the Planning Division of the state’s Ministry of Lands and Survey. 
+Hence, residential layouts, like Okumagba, Essi and Agaga Layouts, were 
+subdivided into building plots for leasing to individuals who built single 
+owner-occupier houses or multi-family rental properties on the sand-filled 
+(reclaimed) swamplands (Figure 1). This led to the growth of the 
+built-up area by 66.7 per cent between 1986 and 2002, with over 50 per 
+cent occurring on flood-prone lands (Figure 1). Such uncontrolled “green 
+field” development on flood-prone lands increased the exposure of its 
+urban population to higher flooding risks and vulnerability.(19)
+Simultaneously, the city’s flood risks are also further threatened as its 
+temperature and precipitation data show an upward trajectory (Table 1). 
+For example, the 1973–1992 and 1993–2012 data show that the difference 
+in the mean annual rainfall between the two periods 1973–1992 and 
+1993–2012 is 150.4 millimetres, or 7.52 millimetres/year more in the 
+later period than in the previous one. Similarly, the mean rainfall of 17.1 
+millimetres/rain-day for 1993–2012 is heavier with higher potential for 
+stimulating higher flooding risks in the city. This is happening in a region 
+for which the NIMET and IPCC reports mentioned earlier had attributed 
+such modest increases in rainfall to climate change.(20)
+In the 1980s, when urban planning and development control 
+weakened in the country,(21) illegal structures, indiscriminate refuse dumps 
+and the emergence of informal settlements in flood-prone swamplands 
+further magnified the city’s flood risks. These new uncertainties of flood 
+risk drivers under a period of climate change and rapid urban growth 
+greatly increased Nigeria’s flood risks, as can be seen in the 2012 Nigerian 
+flood, which was the country’s worst flood in the last half-century.(22)
+
+The causes of changing flood risk types and 
+vulnerability in warri, nigeria
+This section seeks to understand the main causes of the changing 
+dominance of off-street flood retention pools to on-street floodwater 
+retention pools and reveal the underlying causal factors (dimensions) at 
+the root of how Warri residents perceive the growing threat. How the 
+lessons learned may have benefited their adaptation practices are also 
+presented. To achieve this goal, respondents were asked to list the three 
+most important causes of flooding in the city. The top ten causes that 
+emerged, in rank order, are:
+1. lack of land use planning;
+2. lack of drainage facilities;
+3. blockage of natural drainage;
+4. blockage of drainage facilities;
+5. building on flood plains;
+6. low-lying terrain/swamps;
+7. high surface storm runoff;
+8. inadequate drainage facilities;
+9. reclamation of swamplands; and
+10. poor drainage design without integration.
+But most of the root causes of flooding are closely interrelated and 
+needed further processing to uncover the underlying factors driving Warri 
+flooding that can be drawn on for more effective management. To achieve 
+this goal, the root causes of flooding listed were rated on a scale of 1 to 
+10 and the resultant causal dataset was subjected to a varimax rotated 
+principal axis factor analytical procedure.(26) 
+
+Flood adaptation choices in warri and 
+implications for flood risk resilience and 
+national poicy
+According to the International Strategy for Disaster Reduction (ISDR), 
+reduction in disaster risks and vulnerability could be achieved through 
+careful analysis and management of its root causes.(35) But how much 
+of the underlying root causes of flooding in Warri has informed the 
+adaptation choices already implemented in reducing flood risk impacts 
+and vulnerability or in improving community preparedness for 
+the hazard? This is the subject of this section and it consists of three 
+parts: local adaptation choices for living with flood impacts (including 
+government-based and community-based choices), implications for a 
+bottom-up adaptation strategy and implications for a national strategy.
+a. Local adaptation choices for living with 
+flood impacts in Warri
+Although it has been argued that populations at risk of flooding are not 
+the best suited or most prepared for handling such risks,(36) a complete 
+lack of direct personal experience with flooding may constrain both 
+understanding and motivation for taking personal or community actions 
+prompted by such stimulus (i.e., reactive adaptation).(37) Tables 5 and 6 list 
+some of the reactive adaptation choices already implemented in response 
+to the re-occurring flooding stimuli by Warri flood zone occupants and 
+the government.
+Government-based adaptation choices in Warri: The key flood 
+adaptation choices for reducing flood risks and vulnerabilities in Warri 
+by government are shown in Table 5. They include the formulation and 
+enforcement of town planning and development control laws and the 
+provision of structural flood control infrastructure. But because of the 
+colonial policy of administrative cost minimization in Africa, the British 
+relied heavily on the existing network of natural drainage systems, a mix 
+of low-cost roadside gutters, drainage canals and gravity flow to drain 
+urban storm runoff to designated natural floodwater storage sinks. In 
+addition, the Public Works Department maintained and cleaned existing 
+drainage networks to ensure their continued functionality, while the 
+Public Health Department’s house-to-house inspection enforced all waste 
+disposal laws and kept drainage networks flowing and free of refuse. The 
+colonial flood control policies, institutions and infrastructure persisted 
+and kept flooding as the third most serious environmental problem in 
+Warri until the late 1980s.
+
+b. Implications for a bottom-up adaptation strategy for urban 
+flood risk resilience in Warri, Nigeria
+Nigerian cities still lack requisite technical and institutional infrastructure 
+for a sustainable reduction in flood risk impacts of climate change and rapid 
+urban growth. Therefore, to wait for the resolution of this dysfunctional 
+state at the national level before appropriate local community-focused 
+adaptation strategies are developed is to deny flood zone occupants their 
+right to safety and protection of their natural resource base.
+Hence, given the current uncertainties of climate change and 
+rapid urban growth on extreme flood vulnerabilities, “the enhancement 
+of system resiliency is a rational strategy to deal with risk.”(42)
+ As a result, a 
+portfolio of resilience-focused strategies for extreme flood management 
+for Warri is presented in Table 7. Its framing is strongly guided by the 
+need to maintain: effective public engagement of all stakeholders, active 
+learning from the hazards and responses of local inhabitants, adaptive 
+non-structural solutions, and utilization of the self-organizing properties 
+of system theory to respond to the uncertainties of its external drivers in 
+restoring the system’s functionality within a long-term framework. As a 
+self-organizing system, all Warri flood system parts that work together 
+to achieve system functionality and resilience are accounted for and 
+appropriate adaptive non-structural choices proffered. These parts include 
+its ecological systems (i.e., urban land, hydrology and ecosystems), 
+physical/technical systems (i.e., flood drainage infrastructure) and 
+social systems (i.e., people using and managing the land, local at-risk 
+communities responding to flooding issues). These systems are presented 
+in column one, “Adaptation Flood Risk Management for Resilience: Flood 
+System Components”, in Table 7.
+The system is further guided by a strong commitment to system 
+monitoring, the translation of system feedback into new knowledge for 
+further action, diversification of possible responses and technological 
+flexibility in order to achieve system resilience within the portfolio of 
+adaptation choices. Furthermore, the feedback mechanisms of the 
+adaptation choices were re-assessed for their flood risk potential based on 
+the root causes of flooding and local stock of knowledge in consonance 
+with the best practices for building adaptive resilience for sustainable 
+disaster risk reduction.(43) This means that where an adaptation measure 
+was found to enhance rather than reduce flood risk, the portfolio is 
+flexible enough to accept other complementary measures in achieving 
+more resilience. For example, while reclamation by sand filling was found 
+to keep floodwater away from property only temporarily, it also intensifies 
+on-street floodwater retention pools on city streets in the long run 
+because sand filling also reduces floodwater storage capacity of drainage 
+sinks. Therefore, to make reclamation more robust and sustainable, 
+complementary adaptation choices like the provision of drainage facilities 
+to move floodwater quicker out of city streets to drainage sinks and/or the 
+provision of new compensatory floodwater detention basins are needed 
+(Table 7). In this format, this bottom-up adaptation strategy is flexible 
+enough to incorporate valid new improvements in modern technology 
+and tools for disaster assessment and implementation. Similarly, those 
+social institutions and stakeholders required in monitoring system 
+compliance or in identifying potential failure alerts in order to maintain 
+continued system functionality are indicated within the portfolio 
+(Table 7). Also, adaptation requires action from many decision makers 
+and community involvement to convey its real meaning to threatened 
+communities. Finally, this portfolio of adaptation choices is designed to 
+fit seamlessly with the long-term goals of an overarching national policy, 
+as currently contained in the 2011 National Adaptation Strategy and 
+Plan of Action on Climate Change for Nigeria (NASPA-CCN) document 
+for reducing urban flood risk impacts of climate change and rapid urban 
+growth in Nigeria.
+
+c. A national strategy for urban flood risks management for 
+resilience in Nigeria
+In the last decade, Nigeria has responded to climate change issues by 
+developing appropriate regulatory policies and institutional frameworks. 
+Nigeria completed and submitted its First National Communication 
+(FNC) in 2003 to the United Nations Framework Convention on 
+Climate Change (UNFCC) as expected under the Kyoto Protocol.(45)
+Since then, it has made serious inroads in identifying and prioritizing 
+adaptation strategies in different sectors of the economy and it has 
+prepared a NASPA-CCN.(46) According to Nigeria, “NASPA-CCN seeks to 
+minimize risks, improve local and national adaptive capacity and resilience 
+… with a view to reducing Nigeria’s vulnerability to the negative impacts of
+climate change.”(47) It established a clear path to new adaptation choices
+and a plan of actions for 13 priority sectors or themes, including
+sectors that broadly or tangentially addressed adaptation issues for the
+reduction of urban flood risk impacts of climate change at all levels.
+Unfortunately, the Climate Change Adaptation Strategy Technical
+Reports (CCASTR) did not include any detailed case studies of urban
+communities exposed to extreme flood risk impacts of climate change
+and rapid urban growth.(48)
+The lack of institutional and technical response capacity on the
+ground to handle Nigeria’s 2012 floods, the country’s most catastrophic
+floods in decades, exposed the NASPA-CCN system’s inadequate
+response capacity and the lack of preparedness of both the responsible
+national (NEMA) and state (SEMA) statutory agencies.(49) It also revealed
+that the approved NASPA-CCN documents were at best mere theoretical
+propositions without any on-the-ground action plans and without
+the technical capacity and requisite funding to achieve any effective
+response at any level. As a result, local urban communities living with
+the possibility of being exposed to extreme flood hazards are still without
+adequate protection. In the absence of a working national policy on
+reducing climate change flood impacts, an alternative custom-made
+adaptation strategy based on the local stock of knowledge about the
+root causes of Warri flood, as developed in the last section as a logical
+first step before an overarching national policy that is properly informed
+by the long-term benefits of the NASPA-CCN framework, is ready for
+adoption in Nigeria.
+
+Conclusions
+The decision of the British colonial administration to establish Warri
+in low-lying flood-prone swamp terrain of the Niger Delta, without the
+provision of adequate drainage infrastructure, is at the heart of its unsolved
+flooding problems. Participatory urban flood risk assessment has shown
+that on-street floodwater retention pools have become the dominant
+feature of the city’s flood landscape. Warri respondents reasoned that
+urban practices that reduce the floodwater storage capacity of its drainage
+sinks and the violation of building codes, which allow buildings and
+waste materials to block the rights of way of natural channels, are the
+top underlying drivers responsible for the development and propagation
+of on-street urban floodwater retention pools in neighbourhoods that
+were once free of flooding. More recent causes of Warri flood risks and
+these risks’ upward trajectory are the uncertainties of climate change
+and rapid urban growth. These root causes and time-tested adaptation
+choices informed the formulation of a resilience-focused bottom-up
+adaptation strategy to sustainably reduce flood risk in the town. Such
+an approach allows horizontal linkages among city neighbourhoods to
+work cooperatively to deploy their unique sets of indigenous knowledge
+in creating a more robust flood-resilient city prior to its full integration
+with a fully developed national policy.
+
+If you are using wireless internet in a coffee shop, stealing it from the guy next door, 
+or competing for bandwidth at a conference, 
+you might get frustrated at the slow speeds you face when more than one device is connected to the network. 
+To solve this issue, 
+a German Physicist- Harald Haas has introduced a new technology known as“data through illumination” 
+which means transmission of data through LED lights which vary in intensities faster than the human eye can follow. 
+According to him, this technology is based on the intensity and potential of the light emitting diode. This paper draws its
+attention on construction and working of Li- Fi based system and compares its performance 
+with the existing wireless network technologies.
+
+INTRODUCTION
+
+We all are dependent on internet directly or indirectly for the fulfillment of our daily requirements. 
+It is impossible to think of a day in our lives, 
+when we are not “connected” to the “net”. We usethe web for an assortment of purposes, boss among them being sharing of data. 
+In the today’s scenario we are sharing lots of data so the good data sharing capacity is required. 
+In 2011, Professor Harold Haas from the University of Edinburgh in the UK suggested an idea about 
+the new form of wireless network technology 
+which is named as “Data through illumination” [3]. And to implement this he used fiber
+optics to send data through LED light bulbs. Although light modulation is not so new concept, 
+but Haas is looking to move things forward and enable connectivity through simple LED bulbs. In Li-Fi technology, 
+we can connect the internet with the help of an LED beam in a finite range. With this technology 
+we would be able to transmit data even using our car headlights. 
+There are various network topologies but new one’s are emerging, as the network spectrum is increasing. 
+Li-Fi is a new technology uses visible light for communication rather than radio waves 
+which is used in various conventional communication technologies; 
+it refers to 5G Visible Light Communication systems. In Li-Fi technology, 
+LED act as a medium to high-speed communication in a similar manner as Wi-Fi [5]. 
+It can help to conserve a large amount of electricity by transmitting data through light bulbs and other such lighting equipment’s. 
+Li-Fi uses visible light as a carrier at the place of radio waves as in Wi-Fi. 
+As the visible light cannot be penetrating through the walls so it is (Li-Fi) considered as secure means of data transmission system. 
+We fix LED bulbs at the downlink transmitter [1]. 
+If the LED current is varied at a very high speed then we can vary the yield at high speeds. 
+This is the guideline of the Li-Fi. The working of the Li-Fi is very simple-if the Driven is ON, 
+the sign transmitted is a computerized 1 while if it is OFF, 
+the signal transmitted is a digital 0. By changing the rate at which the LEDs flash, we can encode different data and transmit it.
+
+WORKING TECHNOLOGY OF LI-FI
+
+This brilliant idea was showcased by Harald Haas coming from University of Edinburgh, Great Britain, 
+in his TED Worldwide talk on VLC. 
+He or she explained, “Very simple that if the LED is on then 
+a digital ‘1’ is transmitted in case the LED is off then a digital ‘0’ is transmitted. 
+The LEDs can be switched on and off very quickly, which gives great open gateways for sending data”. So, a few LEDs furthermore to a controller 
+that code info into those LEDs are essential. We have to just vary the rate of which the LED’s flicker based on the data to be encoded. 
+Further enhancements may be made in this process, which involves the variety of LEDs for parallel info transmission, 
+or using mixtures of red, green and blue LEDs to correct the light’s frequency with each frequency encodes the data of various channels. 
+Such advancements promise any theoretical speed of 10 Gbps – 
+which means that one can download an entire high-definition film in just 30 seconds. 
+Simply great! But blazingly fast info rates and depleting bandwidths worldwide usually 
+are not the only reasons that offer this technology a higher hand. 
+Since Li-Fi employs just the light, it is usually used safely in aircrafts and hospitals 
+which are susceptible to interference from radio dunes. 
+This can even operate underwater where Wi-Fi neglects completely, thereby throwing open up endless opportunities for army operations. 
+Imagine only needing to hover under a street lamp for getting public internet access, or downloading a movie from your lamp on your workplace. 
+A new technology is introduced in the area which could, quite literally along with metaphorically, 
+'throw light on' how to meet the ever-increasing require for high-speed wireless on the web connectivity. 
+Radio waves are replaced by light waves in a very new method of data transmission which can be being called Li-Fi. 
+The rate of switching of LED is faster than the rate which our eye can detect, causing the light source to seem to be on continuously. 
+A flickering light may be incredibly annoying, but has ended up to have its upside, 
+being precisely what enables us to use light for instant data transmission. 
+Light-emitting diodes (commonly referred to as LEDs and found throughout traffic and street lighting, car brake lights, 
+remote control units along with countless other applications) can be switched on and off greater than the eye can detect, 
+causing the light source to seems to be on continuously, even though it is actually ‘flashing’. 
+This imperceptible on-off action empowers a kind of data transmission using binary unique codes. 
+When the LED is started up then a logical ‘1’ is indicated and when the LED is turned off then a logical ‘0’ is indicated. 
+Information can therefore be encoded inside light by varying the rate of 
+which the LEDs flicker on and off to give different guitar series of 1s and 0s. 
+This technique for utilizing quick heartbeats of gentle to transmit information 
+wirelessly is technically termed as Visible Light Communication (VLC), 
+even it’s potential to tackle conventional Wi-Fi has inspired the widely used characterization LiFi.
+
+APPLICATIONS OF LI- FI
+
+A.Health Technologies: Your Wi-Fi emits radio waves which are very harmful for the patients 
+and the radio waves interpreting the actual medical instruments. 
+Thus you can use internet in running rooms by Li-Fi technology. For no longer time period 
+now medical technology would lag behind those other entire wireless world. 
+Till now operating rooms did not facilitate Wi-Fi over radiation concerns, and there 
+was also a complete lack of dedicated selection. 
+B.Airlines: In Airlines passengers concur to pay additional quantity of cash for the dial up service within thescarft. 
+Li-Fi might simply introduce "high-speed” transmission service which might be interruption 
+free and differs from alternative wireless signals on the board
+C.Li-Fi uses light rather than radio frequency signals. 
+D.Under water in sea Wi-Fi does not work at where Li-Fi will work. 
+E.There are around 19 billion bulbs worldwide, they simply should be supplanted with LED ones 
+that transmit data, we reckon VLC is at a factor of ten, 
+cheaper than Wi-Fi. 
+F.Security is another benefit, since light does not penetrate through walls. 
+G.Street Light: Cars have semiconductor diode primarily based headlights, semiconductor diode primarily based backlights, 
+and automobile will communicate one another and stop accidents within the method that they exchange data. 
+Traffic signal will communicate to the automobile then on. 
+H.Li-Fi may solve issues such as the shortage of radio frequency bandwidth.
+
+
+
+ADVANTAGES OF LI- FI 
+
+A.Capacity: As we know that light is a voluntarily accessible form of energy so most of the portion of EM spectrum can be covered by it. 
+Spectrum of visible light is 10000 times more than the spectrum of radio wave. 
+B.Efficiency: Li-Fi data bits can be transmitted parallely which brings about the expandingefficiency. 
+C.Availability: Light is available in every part of the world which makes each individual to work on the internet in airplanes. 
+D.Data rate: It is possible to get more than 10Gbps, theoretically permit a top quality motion picture to be downloaded in 30sec. 
+This leads to the fast and easy communication. 
+E. Cost: Due to the use of LEDs in Li-Fi its cost is well- organized. F. 
+Bandwidth: The principle point of interest of Li-Fi is that its data transfer capacity is 10,000 more than the Wi-Fi.
+
+RECENT ADVANCEMENT 
+
+A.Li-Fi for smart cities: The simplicity on the li-fi technology using LED lamps to transmit data, 
+including high speed data connections that could be served from street lights could boost emergence of smart locations. 
+B.In the future, topology matters the most: Researchers published worldwide indicate that a future network is going to be faster 
+but capacity complications could still remain. It further reveals of which topology – 
+the cosmetics of transmitters providing the network signal is 
+going to be increasingly important for conference demand in densely-populated places. 
+C.Reliable communication and improved networking in a Li-Fi network: Li-Fi is a high-speed, 
+bi-directional and fully networked broadband wireless technology 
+that's aimed at offloading the present Wi-Fi technology. A Li-Fi access level can serve multiple users 
+simultaneously inside the area of it’s insurance coverage, 
+and this is called as optical at to cell.
+D. Light brings users super-fast wireless internet: Lighting in shop windows, cars and classrooms can often access the wireless web. 
+Li-Fi could prove to get seven times faster than Wi-Fi as well as enable to download a complete HD movie in several seconds. 
+
+Future Scope: As light is everywhere and free to use, there is a great scope for the use and evolution of LiFi technology. 
+If this technology becomes mature, each Li-Fi bulb can be used to transmit wireless data. As the Li-Fi technology becomes popular, 
+it will lead to a cleaner, greener, safer communications and have a bright future and environment. 
+The concept of Li-Fi is deriving many people as it is free (require no license) and faster means of data transfer. 
+If it evolves faster, people will use this technology more and more.
+Currently, LBS (location Based Service) or Broadcast solution are commercially available. 
+The next step could be a Li-Fi WLAN for B2B market with high added value on specific business cases and could grow towards mass market. 
+In the long term, the Li-Fi could become an alternative solution to radio for 
+wireless high data rate room connectivity and new adapted service, 
+such as augmented or virtual reality.
+
+CONCLUSION 
+
+The probabilities are numerous and therefore for the exploration can be done. 
+If his technology might be put into practical utilize, every bulb can supply something 
+like a Wi-Fi hotspot to help transmit wireless data 
+and we will precede toward the solution, greener, safer and better future. The concept of 
+Li-Fi is currently attracting lots of interest, 
+not least because it may offer a genuine and also efficient alternative to radio-based Wi-Fi.
+As a growing number of individuals and their manydevice access wireless internet, the airwaves 
+have grown to be increasingly clogged, 
+making it increasingly more difficult to get an honest, high-speed signal. 
+This may solve issues like the shortage of radio-frequency bandwidth furthermore 
+permit web where conventional radio based remote isn’t allowed. 
+Although there is still a long way to go to make this technology a commercial success, it promises a 
+great potential in the field of wireless internet. 
+A significant number of researchers 15 and companies are currently working on this concept, which promises 
+to solve the problem of lack of radio spectrum, 
+space and low internet connection speed. By deployment of this technology, we can migrate 
+to greener, cleaner, safer communication networks. 
+The very concept of Li-Fi promises to solve issues such as, shortage of radio-frequency bandwidth and 
+eliminates the disadvantages of Radio communication technologies. 
+Li-Fi is the upcoming and growing technology acting as catalyst for various other developing and new inventions/technologies. 
+Therefore, there is certainty of development of future applications of the Li-Fi which can be extended 
+to different platforms and various walks of human life.
+
+Abstract
+
+Various non-invasive administrations have recently emerged as an alternative to conventional needle injections. A transdermal drug delivery system (TDDS) 
+represents the most attractive method among these because of its low rejection rate, excellent ease of administration, and superb convenience and persistenc
+e among patients. TDDS could be applicable in not only pharmaceuticals but also in the skin care industry, including cosmetics. Because this method mainly 
+involves local administration, it can prevent local buildup in drug concentration and nonspecific delivery to tissues not targeted by the drug. However, 
+the physicochemical properties of the skin translate to multiple obstacles and restrictions in transdermal delivery, with numerous investigations conducted 
+to overcome these bottlenecks. In this review, we describe the different types of available TDDS methods, along with a critical discussion of the specific 
+advantages and disadvantages, characterization methods, and potential of each method. Progress in research on these alternative methods has established the
+ high efficiency inherent to TDDS, which is expected to find applications in a wide range of fields.
+
+Introduction
+Drug delivery system (DDS) is a generic term for a series of physicochemical technologies that can control delivery and release of pharmacologically active
+ substances into cells, tissues and organs, such that these active substances could exert optimal effects [1, 2]. In other words, DDS covers the routes of 
+administration and drug formulations that efficiently deliver the drug to maximize therapeutic efficacy while minimizing any side effect [3,4,5]. Depending 
+on the delivery route, there are many types of administration modalities, such as oral administration, transdermal administration, lung inhalation, mucosal 
+administration, and intravenous injection. Among them, the transdermal drug delivery system (TDDS) represents an attractive approach.
+TDDS has become one of the most widely investigated routes of noninvasive drug delivery into the body through the skin, unlike conventionally used direct 
+administration routes that make use of needle-based injections. TDDS has significantly influenced the delivery of various therapeutic agents, especially 
+in pain management, hormonal therapy, and treatment of diseases of the cardiovascular and central nervous systems [6,7,8,9]. TDDS does not involve passage 
+through the gastrointestinal tract; therefore, there is no loss due to first-pass metabolism, and drugs can be delivered without interference from pH, 
+enzymes, and intestinal bacteria. In addition, TDDS can be used to control drug release according to usage restrictions, thereby contributing to the high 
+persistence of this method. Most importantly, because TDDS is a noninvasive administration method and involves minimal pain and burden on the patient, 
+drugs can be safely and conveniently administered to children or the elderly [10,11,12].
+However, it still does not utilize its full potential due to the innate skin barrier. The skin is the outermost organ with a multi-layered structure, 
+and the role of the skin is to protect our body by blocking environmental hazards such as chemicals, heat, and toxins [13, 14]. (Fig. 1). Such skin can 
+be divided into the epidermis, which has the protective function, and the dermis, where blood vessels are located, and produces skin cells, and each 
+layer has elements that interfere with transdermal delivery.
+
+First, the skin barrier effect of the epidermis occurs in the stratum corneum, the outermost layer, and is a property of blocking external substances. 
+The barrier effect is very significant in the transport of substances having a large molecular weight. In TDDS, it is generally accepted that the delivery 
+of substances with small molecular weights utilizes the intracellular pathway. However, for substances having a large molecular weight, methods and various
+ mechanisms using the intracellular pathway in addition to the intercellular pathway are introduced and used [15,16,17]. This is due to the structure of
+ the skin because the part called lipid containing both cells and hydrophilic substances and hydrophobic substances does not have a perfectly regular 
+position but exists with regularity [18]. These structural features can be explained by the principles of physicochemical properties that are attempted 
+to enhance drug delivery through the skin. Next, the vascular system in the dermal layer can inhibit transdermal delivery. A one-cell-thick layer of 
+endothelial cells terminating in the papillary loops of the superficial arteriovenous plexus near the dermal-epidermal junction in the upper dermis 
+represents the interface between the tissues surrounding the skin and the human vasculature. The role of the endothelium in the skin is like that of
+ the whole body. It actively responds to pressure, shear, osmotic pressure, heat, chemokines, and cytokines by modulating permeability and inducing 
+vasodilation or constriction [19]. Therefore, the biggest issue of TDDS is to resolve the barrier effect of the stratum corneum, deliver the drug to 
+the skin tissue, and pass through the cellular and vascular tissue to reach the target tissue. The problem is that only a small amount of the drug can
+ be delivered through the skin tissue [20, 21].
+To solve this problem, various novel TDDS techniques have been intensively developed and have emerged as attractive administration methods. In addition, 
+such development could represent a competitive advantage over other drug administration methods in terms of the delivered dose, cost-effectiveness, and 
+therapeutic efficacy [21,22,23,24].
+Here, we review various transdermal drug delivery techniques (Table 1). We summarize the characteristics of active/passive transdermal delivery and 
+characterization methods. In addition, we discuss future perspectives in the field of TDDS.
+Table 1 The advantages and disadvantages of various transdermal delivery system
+Full size table
+Enhancement of transdermal delivery by equipment (active delivery)
+External stimuli, such as electrical, mechanical, or physical stimuli, are known to enhance skin permeability of drugs and biomolecules, 
+as compared to the delivery of drugs by topical application on the skin [73]. TDDS supplemented by appropriate equipment is termed as active transdermal 
+delivery, which is known to deliver drugs quickly and reliably into the skin. In addition, this mode of enhanced TDDS can accelerate the therapeutic 
+efficacy of delivered drugs (Fig. 2) [75,76,77].
+
+A Experimental set up for skin permeation test using iontophoresis. B In vitro drug release profiles of drug-loaded AuNP oleogels (d-AuNP) on skin. 
+C Fluorescence spectroscopy images obtained from skin permeation experiment after 1 h of application. Arrows mark the top surface of the skin segment 
+treated with d-AuNP. D A schematic illustration of sonophoresis-assisted transdermal drug delivery. E Penetration pathways of LaNO3 after treatment 
+with low frequency sonophoresis, and TEM images of SC after treatment with low frequency sonophoresis using RuO4 fixation in the absence of low 
+frequency sonophoresis (left) and after 5 min (middle) and 10 min (right) of treatment with low frequency sonophoresis. F Schematic Illustration 
+Showing the Fabrication Process of the MTX-Loaded HA-Based Dissolving MN Patch. G Quantitative analysis of epidermal thickness. H Therapeutic effects 
+of MTX-loaded MNs and oral administration of the same dose and a double dose of MTX on IMQ-induced psoriasis-like skin inflammation. Representative 
+photographs of left ear lesions and skin sections stained with H&E and Ki67 on day 7. A, B, C Reproduced from [29], copyright permission by American 
+Chemical Society 2020. D Reproduced from [74], copyright permission by Springer Nature 2021. E Reproduced from [40], copyright permission by Elsevier 2010. 
+F, G, H Reproduced from [54], copyright permission by American Chemical Society 2019
+
+Iontophoresis promotes the movement of ions across the membrane under the influence of a small externally applied potential difference 
+(less than 0.5 mA/cm2), which has been proven to enhance skin penetration and increase release rate of several drugs with poor absorption/permeation 
+profiles. This technique has been utilized in the in vivo transport of ionic or nonionic drugs by the application of an electrochemical potential 
+gradient [25]. The efficacy of iontophoresis depends on the polarity, valency, and mobility of the drug molecule, the nature of the applied 
+electrical cycle, and the formulation containing the drug. In particular, the dependence on current makes drug absorption through iontophoresis 
+less dependent on biological parameters, unlike most other drug delivery systems (Fig. 2A, B) [26]. This modality could additionally include 
+electronic means of reminding patients to change dosages, if desired, to increase patient compliance [27, 28].
+
+Sonophoresis
+The desired range of ultrasound frequencies generated by an ultrasound device can improve transdermal drug delivery [30, 31]. Low-frequency 
+ultrasound is more effective, because it facilitates drug movement by creating an aqueous path in the perturbed bilayer through cavitation 
+(Fig. 2C) [32]. The drug under consideration is mixed with a specific coupler, such as a gel or a cream, which transmits ultrasonic waves to 
+the skin and disturbs the skin layers, thereby creating an aqueous path through which the drug can be injected. Drugs typically pass through 
+passages created by the application of ultrasonic waves with energy values between 20 kHz and 16 MHz. Ultrasound also increases the local 
+temperature of the skin area and creates a thermal effect, which further promotes drug penetration. Several drugs of different classes have been
+ delivered by this method regardless of their solubility, dissociation and ionization constants, and electrical properties (including hydrophilicity), 
+such as mannitol and high molecular weight (MW) drugs such as insulin. However, the exact mechanism of drug penetration through this method is not yet 
+completely understood, and problems with device availability, optimization of duration of exposure and treatment cycles for delivery, and undesirable 
+side effects including burns persist.
+
+Electroporation
+This method uses the application of high voltage electric pulses ranging from 5 to 500 V for short exposure times (~ms) to the skin, which leads 
+to the formation of small pores in the SC that improve permeability and aid drug diffusion [34, 35]. For safe and painless drug administration, 
+electric pulses are introduced using closely positioned electrodes. This is a very safe and painless procedure involving permeabilization of the 
+skin and has been used to demonstrate the successful delivery of not only low MW drugs, such as doxorubicin, mannitol, or calcein, but also high
+ MW ones such as antiangiogenic peptides, oligonucleotides, and the negatively charged anticoagulant heparin. However, this method has the disadvantages
+ of small delivery loads, massive cellular perturbation sometimes including cell death, heating-induced drug damage, and denaturation of protein and other
+ biomacromolecular therapeutics.
+
+Photomechanical waves
+Photodynamic waves transmitted to the skin can penetrate the SC, allowing the drug to pass through the transiently created channel [37, 39].
+ The incident wave produces limited ablation, which is achieved by low radiation exposure of approximately 5–7 J/cm2 to increase the depth to 50–400 μm 
+for successful transmission. This limited ablation showed a longer increase and duration as compared to that in other direct ablation techniques, 
+which made it necessary to control properties of the photodynamic waves to ensure delivery of the product to the intended depth in the skin.
+ The wave generated by a single laser pulse also showed increased skin permeability within minutes, allowing macromolecules to diffuse into the skin. 
+Dextran macromolecules of 40 kDa weight and 20 nm latex particles could be delivered by a single photodynamic laser pulse of a 23-ns duration.
+
+Microneedle
+The microneedle drug delivery system is a novel drug delivery system, in which drugs are delivered to the circulatory system through a needle [41]. 
+This represents one of the most popular methods for transdermal drug delivery and is an active area of current research. This involves a system in
+ which micron-sized needles pierce the superficial layer of the skin, resulting in drug diffusion across the epidermal layer. Because these microneedles
+ are short and thin, these deliver drugs directly to the blood capillary area for active absorption, which helps in avoiding pain [42].
+ Scientists have attempted to use multiple techniques for appropriate optimization and geometric measurements required for effective insertion 
+of microneedles into human skin, which also represents the broad objective of research on microneedles.
+The fabrication of microneedle system has been widely investigated with considering the objective, drug type and dose, and targets for use [43].
+ Up to now, the microneedle can be fabricated with laser-mediated techniques and photolithography. The laser-mediated fabrication techniques are used 
+for manufacturing metal or polymer microneedle. The 3D structure of a microneedle is generated through cutting or ablating on a flat metal/polymer 
+surface using a laser [44, 45]. Photolithography is known as the method of elaborately fabricating microneedle and has the advantage of being able to
+ manufacture needles of various shapes using various materials. This method is mainly used to manufacture dissolving/hydrogel microneedles or silicon 
+microneedles via making an inverse mold based on the microneedle structure through etching of photoresist [46]. In addition, 3D printing [47], 
+Microstereolithography [48], and Two-photon polymerization [49] are also investigated for preparing various microneedle system.
+The prepared microneedles could be of several types, such as solid microneedles that simply make a physical path through which drugs can be absorbed, 
+drug-coated microneedles which facilitate delivery of drugs coated on the surfaces of the needles as the latter enter the skin, dissolving microneedles
+ made of drug formulations that dissolve in the body, naturally delivered melting needles which involve drug storage in hollow needles followed by
+ administration (such as a specific injection type), and microneedle patches combined with diverse patch types (Fig. 2D, E) [50,51,52,53,54].
+
+Thermal ablation
+Thermal ablation, also known as thermophoresis, is a promising technique for selectively disrupting the stratum corneum structure by localized 
+heat which provides enhanced drug delivery through microchannels created in the skin [55]. To ablate the stratum corneum by thermal ablation, a 
+high temperature above 100 °C is required and this leads to heating and vaporization of keratin. Additionally, the degree of alteration of the 
+stratum corneum structure is proportional to the locally elevated temperature, indicating that it is an ideal technique for precise control of drug 
+delivery. The thermal exposure should be short within microseconds to create a high enough temperature gradient across the skin for selective ablation 
+of the stratum corneum without damaging the viable epidermis. Micron-scale defects created from thermal ablation are small enough (50–100 μm in diameter) 
+to avoid the potential to cause pain, bleeding, irritation, and infection. Therefore, the patient is well tolerated if there is no damage to the cells
+ of the deeper tissues. In addition, thermal ablation has better control and reproducibility than other approaches such as mechanical abrasion, 
+chemical treatment, or tape-stripping. And it offers effective delivery of small molecules as well as high molecular weight compounds. However, 
+the structural changes in the skin must be evaluated, especially when using higher energy for enhancing the diffusion rate of drug molecules.
+
+Thermal ablation can usually be induced by laser and radiofrequency methods depending on the different sources of thermal energy [56, 57]. 
+Laser thermal ablation methodologies utilize a laser to induce micropore structure of skin as well as the increase of the skin temperature 
+which increases skin diffusivity. Laser light energy is absorbed by water and pigments of the skin and transforms to thermal energy leading 
+to water excitation and explosive evaporation from the epidermis. The degree of the ablated skin depth can be precisely controlled upon tuning
+ many parameters such as wavelength, pulse length, energy, number and repetition rate, tissue thickness, absorption coefficient, and duration 
+time of laser exposure. Laser thermal ablation, especially when using Er:YAG laser, makes it possible to increase the penetration of drugs by more 
+than 100 times and enhance the delivery of both lipophilic and hydrophilic drugs including biomacromolecules such as peptides, proteins, vaccines, 
+and DNAs [56,57,58].
+
+Radiofrequency thermal ablation involves the placement of an array of needle-like metallic microelectrodes directly onto skin and application of
+ high frequency electric current into the skin in radiofrequency range (100–500 kHz) which produce micron-scale pathways in stratum corneum. 
+Exposure of the skin to a high radiofrequency causes ionic vibrations within the tissue leading to the generation of localized heat in specific 
+areas of the skin. And thus, induced heat cause water evaporation and ablates the cells of the epidermis under each filament creating microchannels 
+up to 50 μm in depth. The process is completed within a few seconds and microchannels are filled with intestinal fluid through which hydrophilic 
+molecules can permeate. The rate of drug delivery is proportional to the degree of the ablated skin depth which is controlled by the size and 
+density of the microchannels. Radiofrequency thermal ablation can sustain the drug release and enhance the delivery of a wide range of drugs with
+ hydrophilic nature including macromolecules using a low-cost, disposable device [59].
+
+TDDS using chemical enhancers (passive delivery)
+To achieve enhanced transdermal delivery and therapeutic efficacy, drugs should have low MW (less than 1 kDa), an affinity for lipophilic and 
+hydrophilic phases, short half-life, and a lack of skin irritability [64]. Many factors affect drug penetration through the skin, such as species
+ differences, skin age and site, skin temperature, state of the skin, area of application, duration of exposure, moisture content of the skin, 
+pretreatment methods, and physical characteristics of the penetrant.
+
+Recent studies that have focused on aspects of transdermal drug delivery technologies ranging from the development of chemical enhancers that 
+increase the spread of drugs across the skin or increase the solubility of drugs in the skin to novel innovative approaches that extend this concept 
+to the design of super-strong formulations, microemulsions, and vesicles [65, 66] (Fig. 3). Penetration enhancers can be used alone or in combination 
+with chemical penetration enhancers with proven superior skin penetration as compared to that of individual chemicals. These synergistic systems 
+include eutectic mixtures and nanoparticle composite self-assembled vesicles. Therefore, research in recent years have focused on the application
+ of suitable molecular simulation methodologies in understanding the skin lipid barrier, mechanisms regulating penetration of molecules across the 
+skin and transport of penetration enhancers, and perturbations in the skin barrier function.
+
+A SEM images of the prepared ALA-ES gels. B TEM images of ALA-ES in human HS tissue dermis. ALA-ES is indicated using black arrows. C TEM image 
+of OA-UCNP. The nanoparticles show near-spherical shape with an average diameter around 25 nm. D Microscopy images of a section of a sample pig 
+ear skin under 980 nm excitation laser. E Schematic illustration of W/O/W emulsification of HA-PLGA. F Fluorescence microscopic images of 
+histological sections of rat skin at 4 and 12 h after topical application of Rho B-encapsulated HA-PLGA NPs. Scale bar, 100 μm. A, B Reproduced 
+from [63], copyright permission by American Chemical Society 2018. C, D Reproduced from [67], copyright permission by IOP Publishing Ltd. 2020.
+ E, F, G Reproduced from [68], copyright permission by BioMed Central Ltd. 2019
+
+Vesicles
+Vesicles are colloidal particles filled with water and consist of amphiphilic molecules in a bilayer arrangement. Under conditions of excess water, 
+these amphiphilic molecules form concentric bilayers with one or more shells (multilayer vesicles). Vesicles can carry water-soluble and fat-soluble
+ drugs to achieve transdermal absorption. When utilized for topical applications, vesicles can be used to achieve sustained release of stored drugs. 
+It is also possible to employ vesicles in TDDS to control the absorption rate through a multilayered structure. Owing to the presence of different 
+components, vesicle systems can be divided into several types, such as liposomes, transfersomes, and ethosomes, depending on the properties of the 
+constituent substances [60].
+
+Liposomes are circular soft vesicles formed by one or more bilayer membranes that separate an aqueous medium from another. Their main components are
+ usually phospholipids, with or without cholesterol. Phospholipid molecules are mainly composed of different polar head groups and two hydrophobic
+ hydrocarbon chains. Polar groups can be either positively or negatively charged. Hydrocarbon chain molecules have different lengths and different 
+degrees of unsaturation. The formation of liposomes occurs spontaneously upon reconstitution of a dry lipid film in an aqueous solution. This unique
+ structure allows liposomes to be both hydrophilic and hydrophobic and affords encapsulation of both water-soluble and fat-soluble substances. However,
+ some studies have shown that liposomes can only remain on the surface of the skin and cannot pass through the granular layer of the epidermis, thereby
+ minimizing the amount of drug absorbed into the blood circulation. This property increases the retention of drugs that stay on the skin, prolong their
+ activity at the site of the lesion, and allow long-term sustained release. Therefore, liposomes are the preferred system of choice for the topical 
+treatment of skin diseases [61].
+
+Transfersomes are also called deformable liposomes, or elastic or highly flexible liposomes. The most important feature of these vesicles is the 
+elasticity that results from the addition of single-chain surfactants. These surfactants make the phospholipid bilayer fluid and vesicles highly 
+deformable, thereby rendering these into first-generation transfersomes. Over time, second-generation transfersomes have emerged, consisting of at 
+least one basic bilayer building block (typically fluid-phase phosphatidylcholine lipids) and at least two or more polar lipophilic substances. 
+Third-generation transfersomes are a combination of amphiphilic surfactants, with or without phospholipids. The possibility of deformation has
+ facilitated the design of transfersomes to those capable of penetrating skin pores 5 to 10 times smaller than their size to enable delivery of
+ skin-penetrating drugs with MW up to 1000 kDa. In addition, TDDS using transfersomes allows the administration of macromolecular drugs such as 
+peptides or proteins [62].
+
+Ethosomes are composed of phospholipids, alcohols, and water. Compared with liposomes, ethosomes have higher alcohol concentrations. 
+Ethosomes promote the percutaneous penetration of drugs, with phospholipids also contributing to the process [63] (Fig. 3A, B). The flexibility 
+and fluidity of ethosomes increase as water molecules near the lipid headgroup are replaced by alcohol. Ethosomes have the characteristic 
+size of small particles, a stable structure, and a high capture efficiency that can delay drug release; therefore, compared with regular 
+liposomes, ethosomes can transport drugs with deep penetration or directly through the skin. These formulations are also known to greatly improve 
+drug release into the circulating blood and drug transdermal efficacy. Ethosomes are a type of multiphase dispersion system characterized by better 
+stability and a longer retention period than those of transfersomes.
+
+Polymeric nanoparticles
+Nanoparticles (NPs) are nanocarriers with sizes ranging between 1 and 1000 nm and can be classified into several types according to their composition.
+ Drug administration in the form of NPs leads to targeted and controlled release behavior, changes in in vivo dynamics of the drug, and extends the 
+drug residence time in the blood, which further lead to improved drug bioavailability and reduced toxicity and side effects. NPs are conventionally 
+generated by polymerization and crosslinking, and biodegradable polymeric materials such as gelatin and polylactic acid (PLA) are often used [67, 69, 70]. 
+In the field of TDDS, polymeric NPs are gaining increased attention because they can overcome the limitations of other lipid-based systems, such as by 
+conferring protection to unstable drugs against degradation and denaturation and achieving continuous drug release to reduce side effects. 
+Increase in the concentration gradient improves transdermal penetration of the drug. Depending on the manufacturing method and structure, 
+polymeric NPs can be classified as nanospheres, nanocapsules, and polymer micelles. Widely used polymers include polylactic acid,
+ poly(D,L-lactide-co-glycolide) (PLGA), polycaprolactone, polyacrylic acid, and natural poly esters (including chitosan, gelatin, and alginate).
+ These polymer chains can be synthesized by covalent linkage of two or more single polymeric units under specific conditions, such as the presence
+ of a synthetic membrane that mimics the cellular lipid bilayer membrane. Although these polymers can form a complex structure, the polymer membrane 
+is highly structured owing to the high MW polymer chains; for this reason, polymeric NPs, characterized by high mechanical strength and non-deformability 
+cannot pass through pores with dimensions smaller or equal to their size. However, these NPs can be difficult to break down, which means drugs 
+can be stored for a substantially long period, followed by its release from the NPs and diffusion into deeper layers of the skin (Fig. 3C-G) [68, 78,79,80].
+
+Nanoemulsion
+Nanoemulsions are a mixture characterized by low viscosity and isotropic, thermodynamic, and dynamic stability [71]. The mixture consists of transparent 
+or translucent oil globules dispersed in an aqueous phase stabilized by an interfacial membrane formed by surfactant or co-surfactant molecules of 
+extremely small droplet size. The particle size of commonly used nanoemulsions ranges from 100 to 1000 nm, although an upper limit to the particle 
+size has been proposed on account of its nanoscale dimensions. Nanoemulsions are different from microemulsions; although nanoemulsions have almost 
+the same droplet size range, composition, and appearance as microemulsions, they differ greatly in terms of structural aspects and long-term 
+thermodynamic stability. The small particle size, large specific surface area, and low surface tension of nanoemulsions provide excellent 
+wettability that ensures close contact with the skin. In addition, nanoemulsions offer many other benefits such as high solubilization capacity 
+and physical stability, improved bioavailability, ease of preparation, production with less energy input, and long shelf life. Nanoemulsions exhibit
+ a shorter transdermal time and better transdermal absorption than commonly used topical skin preparations. Depending on the composition,
+ nanoemulsions can include oil-in-water (O/W: oil phase dispersed in a continuous aqueous phase), water-in-oil (W/O: aqueous phase dispersed in
+ a continuous oil phase), and bicontinuous/multiphasic emulsion. Several studies have reported the increased use of O/W nanoemulsions as a 
+delivery system for encapsulating lipophilic components in pharmaceuticals, highlighting the immense potential of nanoemulsions in contributing to 
+novel TDDS-based advances in pharmaceutical applications [58, 68].
+
+Methods for characterizing TDDS
+The evaluation of delivery efficiency and effectiveness is a very important process in TDDS. There are various methods used for this,
+ depending on the type and purpose of the drug to be delivered. However, the three most common methods involve the use of diffusion cells, 
+tape stripping, and microscopic and spectroscopic examination [81, 82], in which each method makes use of a distinct analysis method. As the 
+drug applied to the surface is absorbed, all these characterization methods are based on the principle of measuring the amount of the drug in
+ each surface layer or storing an imaging material instead the drug to visually confirm the absorption behavior.
+
+Diffusion cell method
+Tests employing diffusion cells represent the gold standard in the evaluation of TDDS, with Franz diffusion cells being the most common used 
+setup (Fig. 4) [84, 85]. This technique determines important relationships among the skin, active pharmaceutical ingredients, and the nature 
+of the formulation. The diffusion cell consists of a chamber for drug application, a membrane within which the drug may diffuse, and an acceptor 
+media chamber from which samples may be investigated. Diffusion cells are categorized into two main classes, namely, static and flow-through cells.
+ In static cells, as in the popular Franz diffusion cell, the donor, the membrane, and the acceptor modules could be placed either vertically or
+ horizontally. There are Franz cells that open from above; therefore, the measurement runs under conditions of atmospheric pressure. However, 
+most of these cells are closed from the top, leading to increased pressure, which translates to an overestimation of penetration values. Nowadays, 
+“hand-sampler” Franz diffusion cells have been replaced by systems connected to an automated sampler. These automated sampling systems facilitate 
+the work of researchers and reduce errors from manually conducted experiments.
+
+A Schematic illustrations of the static Franz diffusion cell. B Permeation profiles of ketoprofen (KTP) for 24 h in different conditions of matrix,
+ medium, pH, and type of membrane. A, B Reproduced from [83], copyright permission by MDPI 2018
+
+Tape stripping
+Tape stripping is a commonly used minimally invasive method to test the penetration of topically applied formulations through the SC, where a layer 
+of the SC is removed with an adhesive tape followed by examination of the skin layer on the adhesive tape (Fig. 5) [74, 83, 86, 87]. The tape
+ stripping process is performed after an appropriate incubation time post topical application of the test composition. The composition may be 
+removed or left on the skin to provide the original amount of components to be used during the measurement. The adhesive tape is placed on the 
+skin surface and is always removed from the same selection. It is important that the adhesive tape is always flattened with the same force as 
+the roller to eliminate the effect of creases and recesses on tape stripping. In addition, the removal rate is an important factor. The slower 
+the adhesive tape removal rate, the higher the adhesion of the SC to the patch, which increases the amount of skin removed from the patch. 
+The removed adhesive tape contains both the SC layer and the active ingredients of the composition used. Several methods can be used to test 
+samples harvested using adhesive tape. High-performance liquid chromatography (HPLC) analysis produces quantitative results, whereas spectroscopic 
+methods produce semiquantitative insights. During HPLC analysis, the test material on the adhesive tape is extracted and analyzed on chromatographic 
+separation. It is also possible to detect active substances using atomic absorption spectroscopy. However, the most prevalent method used to 
+characterize skin harvested by tape stripping is attenuated total reflectance-Fourier transform infrared spectroscopy (ATR-FTIR). These spectroscopic 
+measurements are based on sample irradiation, and changes in oscillations and bonding angles between atoms due to the absorption or scattering of
+ infrared rays. The change in radiation on passing through the sample is measured by plotting the transmitted radiation as a function of
+ wavelength/wavenumber. This analysis yields a spectrum that could be analyzed for both qualitative and quantitative information. 
+Therefore, the depth of penetration is determined by the wavelength of the infrared radiation, the refractive index of the ATR crystal, 
+and the measured material and angle of reflection. Tape stripping combined with ATR-FTIR spectroscopy is suitable for detecting a variety 
+of exogenous substances in specific layers of the SC. However, the difficulty with this method is that characteristic peaks of the substance
+ to be detected often overlap with peaks specific to the skin.
+
+A Diagram illustrating the process of skin tape stripping. B Imaging of a 4-mm volar skin surface area of a healthy forearm with optical coherence
+ tomography (OCT). A Reproduced from [66], copyright permission by Springer Nature 2021. B Reproduced from [74], copyright permission by Frontiers
+ Media 2019
+
+Microscopic and spectroscopic methods
+Microscopy-based techniques can also provide important information about the spatial distribution of the drug within different skin layers or shed 
+light on the mechanism of penetration. The two most common modalities of microscopy are confocal laser scanning microscopy (CLSM) and two-photon 
+fluorescence microscopy (2-PFM) (Fig. 6) [58, 68, 71, 72, 74, 80,81,82,83,84,85,86,87, 90].
+
+A CLSM images (100× magnification) of skin samples treated with free C-6, C-6/NLC, and C-6/SLN. B Enlarged CLSM Fig. (200× magnification). 
+C Fluorescence intensity in receptor fluid at various times. D Reconstructed two-photon images in XZ orthogonal and 3D views. E Averaged normalized
+ FITC-EGF signal intensity along the z-axis from the surface to the dermal layer of human skin samples. F Penetration depth of FITC-EGF with different 
+thresholds of fluorescence intensity (50, 20, 10, and 5%) measured at the skin surface. A, B, C Reproduced from [88], copyright permission by Springer
+ Nature 2018. D, E, F Reproduced from [89], copyright permission by OSA Publishing 2018
+
+CLSM is a non-invasive method developed for fluorescence microscopy [88, 91, 92]. In the past few years, CLSM has been widely adopted as a technique
+ to visualize fluorescent model compounds in the skin. CLSM can be used to examine skin structure without destroying tissue samples and is widely 
+employed to evaluate the effect of physical and chemical enhancers on skin permeability. This method can be adapted for use in both in vivo and in 
+vitro conditions. CLSM is used to diagnose common skin dysfunction and identify malignant lesions, along with characterization of keratinization and 
+pigmentation disorders. CLSM can be applied to probe the mechanism underlying the promotion of transdermal transport by nanoparticle formulations. 
+Fluorescent markers (e.g., fluorescein, Nile red, and 5-bromodeoxyuridine) can be included in the encapsulated nanostructured formulations.
+ The therapeutic effectiveness of these formulations can be examined by CLSM to determine the penetration profile of these fluorescent markers 
+across skin tissue or skin appendages.
+
+In addition, 2-PFM has become an important tool for imaging skin cells [89]. This setup commonly uses a Ti-sapphire laser as the excitation source. 
+In single-photon fluorescence, a fluorescent photon is generated when a high-energy photon excites the fluorophore and increases the energy level 
+of one of its electrons to an excited state. In two-photon excitation, the combined energy transfer of two low-energy photons is sufficient to raise 
+the same electron to a high energy level. The setup of a two-photon microscope is very similar to that of a CLSM, with two major differences. 
+The 2-PFM setup works with an adjustable Ti-sapphire high-frequency pulsed laser, which emits red and near-infrared rays in the wavelength range 
+of 650–1100 nm. Another significant difference is that there is no pinhole in front of the detector. The most relevant advantage of 2-PFM is that 
+the total energy delivered to the specimen is much lower than that of other techniques. In addition, the two-photon excitation phenomenon involves 
+fluorescence excitation of the sample in very small focal volumes, thereby reducing the possibility of photobleaching and photodamage. Skin samples
+ can be studied without cryofixation or sectioning. For imaging of UV-absorbing fluorophores, less scattering and less absorption make deep tissue
+ imaging possible using infrared excitation. The limitations of 2-PFM include the fact that this setup requires relatively expensive lasers and 
+complex cooling systems. It also has a lower lateral resolution than other technologies; however, in practice, the resolution difference is not 
+significant.
+
+Conclusion and future perspectives
+The development of TDDS technology is widely recognized as the development of a mass delivery methodology, which makes it the preferred drug 
+injection modality for transdermal delivery across skin types, while preventing first-pass metabolism and other sensitivities associated with 
+various alternative drug administration routes. In various devices and TDDSs, drugs can be delivered through the skin to the systemic circulation. 
+Drugs are generally reliably and safely delivered through TDDS and are safe and stable from biochemical modifications until they reach the target tissue.
+ TDDS is noninvasive, nonallergenic, and has a set duration and dose delivery method, which allows for uniform distribution of drugs at prescribed 
+and controlled rates. Many new and old formulations are in the process of improving the bioavailability of low-absorption drugs via easy routes 
+of administration that allow large doses to be administered over a long period of time. Therefore, the TDDS technology is growing rapidly in the 
+pharmaceutical field and has succeeded in capturing key value in the market for biomedical applications as a formulation system that can improve 
+drug delivery through topical routes. However, despite extensive research over the past few decades, passive methods such as chemical enhancers
+ have had limited success in increasing transdermal transport of small molecules and have only had a relatively poor ability to increase transport 
+of macromolecules under potentially clinically acceptable conditions. Active transport methods using external devices have more extensively increased 
+the transdermal delivery efficiency of drugs and macromolecules. However, the ability of these technologies to effectively deliver drugs is partially 
+balanced by their reliance on electronic control devices that require energy sources, which limits their utility and cost. Methods of piercing 
+micron-sized pores into the skin, such as microneedles can significantly increase the transdermal delivery of drugs, macromolecules, or particles, 
+but more studies are needed to achieve more safety/low skin damage and cost-effectiveness.
+
+In recent years, the scale of TDDS in the domestic and overseas drug delivery system market has increased, as confirmed through 
+increasing research studies, patents, and commercially available products from many companies and research institutes. In addition, 
+microneedles are attracting great attention even among TDDS modalities, which complement the limitations of the existing simple application type 
+and patch type needles and combine the advantages of microneedles to obtain higher treatment efficiency and effects. For this, manufacturing 
+and commercialization methods are being developed, with judicious implementation of latest technologies, such as 3D bioprinting. 
+Advances in these TDDSs could provide the driving force for controlling prevalence of diseases of cardiovascular and central nervous systems, 
+diabetes, neuromuscular diseases, genetic diseases, and infectious and localized infectious diseases, while spearheading advances in vaccination 
+and supporting patient preference for self-administration of drugs for long-term treatment.
